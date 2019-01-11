@@ -1,0 +1,26 @@
+24
+A     B     0
+A     C     0
+A     D     0
+B     E     0
+B     F     0
+C     G     0
+D     H     0
+D     I     0
+F     J     0
+G     K     0
+G     L     0
+H     M     0
+I     M     0
+I     N     0
+O     P     5
+O     Q     2
+P     R     2
+Q     R     1
+R     O     1
+R     S     3
+S     R     1
+S     T     2
+S     U     3
+T     O     8
+
